@@ -1,0 +1,43 @@
+
+h1{
+
+    font-size: 2.25rem;
+    font-weight: 700;
+    font-family: Halant;
+   
+
+
+}
+
+
+p{
+
+    font-family: Nunito;
+    
+
+}
+
+a{
+    text-decoration: underline;
+    font-family: Nunito;
+    color: black;
+  
+
+
+
+
+
+
+
+}
+
+
+.container{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+
+}
