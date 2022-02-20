@@ -23,8 +23,8 @@ Please make sure you put your Access key ID and Secret access key in the "config
 **First line** should be the Access key ID and the **second line** is the Secret access key.<br>
 For example, your config file should look like this:<br>
 ```
-AKIAWNWHLRGPIVOP4KOM
-Zu09w44Z4xNztFEhx+f/uZb6krlqK3lm0Ftn2Miq
+ABCDEFQWERTPIVOP5ZXC
+Qu12w34Z5xNztUIhx+f/uZb6krlqK7lm8Ftn9Fiq
 ```
 
 #### Running
