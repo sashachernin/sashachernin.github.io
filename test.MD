@@ -143,5 +143,5 @@ def delete_object():
 ```
 *Note: each function contains a try/except block in order to catch such errors as wrong bucket name, permission denied, etc..*
 
-# Resource that was used in making of this task:
+# Resource that was used in making of this task
 https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html
